@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Pithadiya</h1>
-<h3 align="center">Flutter developer by day, Rustacean by night - on a mission to conquer new horizons in the world of programming. With a passion for open source and a drive to make a difference, I'm embarking on a journey to contribute to the community through my coding skills. Always up for a challenge, I believe in the power of collaboration and the importance of continuously learning and growing. Follow me on my journey as I explore the frontiers of Flutter and Rust development, one line of code at a time</h3>
+<h3 align="left">Flutter developer by day, Rustacean by night - on a mission to conquer new horizons in the world of programming. With a passion for open source and a drive to make a difference, I'm embarking on a journey to contribute to the community through my coding skills. Always up for a challenge, I believe in the power of collaboration and the importance of continuously learning and growing. Follow me on my journey as I explore the frontiers of Flutter and Rust development, one line of code at a time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=typecasted&label=Profile%20views&color=0e75b6&style=flat" alt="typecasted" /> </p>
 
